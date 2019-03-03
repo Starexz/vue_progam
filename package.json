@@ -16,7 +16,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "boostrap": "^2.0.0",
-    "iview": "^3.1.5",
+    "iview": "^3.2.2",
     "jquery": "^3.3.1",
     "less": "^3.9.0",
     "less-loader": "^4.1.0",

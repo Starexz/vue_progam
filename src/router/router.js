@@ -1,5 +1,6 @@
 import indexRouter from './index/indexRouter'
 import goodsRouter from './goods/goodsRouter'
+import loginRouter from './login/loginRouter'
 
 const appRouter = {
   path: '/',
@@ -11,7 +12,8 @@ const appRouter = {
   },
   children: [
     indexRouter,
-    goodsRouter
+    goodsRouter,
+    loginRouter
   ]
 }
 
